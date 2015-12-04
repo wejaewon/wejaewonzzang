@@ -9,6 +9,7 @@
 			<li>사과</li>
 			<li>바나나</li>
 			<li>banana 보내기 push</li>
+			<li>나는 하이야 받아볼수있니?</li>
 		</ul>
 	</body>
 </html>
