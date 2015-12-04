@@ -10,6 +10,7 @@
 			<li>바나나</li>
 			<li>banana 보내기 push</li>
 			<li>나는 하이야 받아볼수있니?</li>
+			<li> hi 충돌</li>
 		</ul>
 	</body>
 </html>
